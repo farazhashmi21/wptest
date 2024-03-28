@@ -1,0 +1,12 @@
+/*
+Theme Name: Learn Block Theme
+Theme URI: https://learn.wordpress.org/learn-block-theme
+Author: Engr. Faraz Hashmi
+Author URI: https://learn.wordpress.org/
+Text Domain: learn-block-theme
+*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
