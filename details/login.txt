@@ -1,0 +1,5 @@
+Site Title: Wp Test
+Username: adminfarazhashmi
+Password: %B)%Tufa7bX^y##Butom2p9e
+Email: farazhashmi9000@hotmail.com
+Table Prefix: test_
