@@ -3,3 +3,6 @@ Username: adminfarazhashmi
 Password: %B)%Tufa7bX^y##Butom2p9e
 Email: farazhashmi9000@hotmail.com
 Table Prefix: test_
+Official URL: http://wptest:8800/index.php
+Login URL: http://wptest:8800/wp-login.php
+
